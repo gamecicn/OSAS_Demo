@@ -7,3 +7,5 @@
 
 ## 2. The system architecture 
 
+
+![System Architectur](https://github.com/gamecicn/OSAS_Demo/blob/main/image/architecture.png)
