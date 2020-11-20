@@ -14,7 +14,7 @@ The whole system is based on the AWS cloud and uses Comprehend to judge the inpu
 ![System Architectur](https://github.com/gamecicn/OSAS_Demo/blob/main/image/architecture.png)
 
 
-## 3 Video Introduce
+## 3 Video
 
 
 
