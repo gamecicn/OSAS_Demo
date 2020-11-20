@@ -17,8 +17,12 @@ The whole system is based on the AWS cloud and uses Comprehend to judge the inpu
 ## 3 Video
 
 
+## 4 Presentation Document
 
-## 4 Team Member 
+[PPT is here](https://github.com/gamecicn/OSAS_Demo/blob/main/doc/Sentiment%20Analyzer.pptx)
+
+
+## 5 Team Member 
 
 aimanjawaid.haider@duke.edu, maobin.guo@duke.edu,  xinyi.pan@duke.edu, 
 
