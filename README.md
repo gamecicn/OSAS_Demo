@@ -16,6 +16,7 @@ The system is based on the AWS cloud and uses Comprehend to analyze the sentimen
 
 ## 3 Video
 
+https://youtu.be/8BWzlhqQAg0
 
 ## 4 Presentation Document
 
